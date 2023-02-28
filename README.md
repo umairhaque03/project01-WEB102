@@ -29,7 +29,8 @@ GIF created with [Kap](https://getkap.co/)
 ## Notes
 
 I faced several challenges, particularly with using CSS and formatting the texts and cards.It was challenging to format
-the cards and center the text inside them. 
+the cards and center the text inside them. I took advantage of the "props" and it helped me quickly and efficiently set-up
+my web app.
 
 ## License
 
